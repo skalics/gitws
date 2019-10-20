@@ -7,6 +7,7 @@ public class DemoPage {
 		// TODO Auto-generated method stub
 		int answer = JOptionPane.showConfirmDialog(null, "are you ready", "ask",2);
 		System.out.println(answer);
+		int x = 4711;
 
 	}
 
