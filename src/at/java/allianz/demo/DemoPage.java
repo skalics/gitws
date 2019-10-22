@@ -9,6 +9,8 @@ public class DemoPage {
 		System.out.println(answer);
 		int x = 4711;
 		// nochmalls ein Blödsinn
+		float f = 234.3f;
+		System.out.println("text..." + x + f);
 	}
 
 }
