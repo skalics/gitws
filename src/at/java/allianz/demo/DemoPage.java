@@ -8,7 +8,7 @@ public class DemoPage {
 		int answer = JOptionPane.showConfirmDialog(null, "are you ready", "ask",2);
 		System.out.println(answer);
 		int x = 4711;
-
+		// nochmalls ein Blödsinn
 	}
 
 }
