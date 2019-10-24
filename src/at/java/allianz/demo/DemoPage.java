@@ -11,6 +11,7 @@ public class DemoPage {
 		// nochmalls ein Blödsinn
 		float f = 234.3f;
 		System.out.println("text..." + x + f);
+		//This is a new line
 	}
 
 }
