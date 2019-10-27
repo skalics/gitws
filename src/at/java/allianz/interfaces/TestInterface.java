@@ -8,6 +8,7 @@ package at.java.allianz.interfaces;
  *
  */
 public interface TestInterface {
-	void toTest();
+	void doTest();
+	void configTest();
 
 }
