@@ -1,7 +1,7 @@
 /**
  * 
  */
-package at.java.allianz.demo;
+package at.java.allianz.interfaces;
 
 /**
  * @author sebastian
