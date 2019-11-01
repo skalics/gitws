@@ -10,5 +10,6 @@ package at.java.allianz.interfaces;
 public interface TestInterface {
 	void toTest();
 	void undoTest();
+	void doTest();
 
 }
